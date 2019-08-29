@@ -5,24 +5,20 @@ my script bash
 Bash script;
 
 
-acl.sh -> 
+acl.sh -> (create a repository blih - set acl - get acl - clone)
 1) Warning ! install pmenu before using
 2) Create a Token Blith for your password
 
-create a repository blih - set acl - get acl - clone
 -------------------------------------------------------------------------------------------------------------------------------
-dj.sh ->
+dj.sh -> (directory jump)
 
 1) Warning ! install pmenu before using
-2) directory jump
 -------------------------------------------------------------------------------------------------------------------------------
-findsong.sh -> 
+findsong.sh -> (in search of music is the cheek)
 
 1) Warning ! install pmenu before using
-2) in search of music is the cheek
 -------------------------------------------------------------------------------------------------------------------------------
 
-new_alias.sh ->
+new_alias.sh -> (link an alias and a script)
 
 1)Warning ! install pmenu before using
-2)link an alias and a script
